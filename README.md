@@ -1,2 +1,2 @@
-# Wine-recommender-system-project
-A project developed in my class at UIB, Knowledge Graphs. Working with semantic data and OWL. 
+# This is my school projects i have worked on and devolped at the University of Bergen. 
+
